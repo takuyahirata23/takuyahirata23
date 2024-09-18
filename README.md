@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+I'm Takuya. I currently work at Thrillworks as Full Stack Software Engineer. I enjoy developing personal projects besides full-time job.
 
-- 🔭 I’m currently working at Thrillworks as an Intermediate Full Stack Software Engineer
-- 🖥 I have been working on [Motorcycle Trackdays](https://motorcycle-trackdays.com) for motorcycle enthusiasts using Elixir, Phoenix, PostgreSQL, GaphQL, and React Native. [Backend](https://github.com/takuyahirata23/trackdays-api), [Frontend](https://github.com/takuyahirata23/trackdays-mobile)
-- 🌱 I have published [fts-utils](https://www.npmjs.com/package/fts-utils)
-- 💬 Ask me about anything
-- 📫 How to reach me: Email 
+## My Personal Projects
+- [Run QS](https://runqs.com) for small businesses or individuals to run simple survey to understand what their cusomters think about their products.
+- [fts-utils](https://www.npmjs.com/package/fts-utils). Utility functions for functional programmers written in TypeScript. 
+
