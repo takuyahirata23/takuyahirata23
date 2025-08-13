@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Takuya. I currently work at Thrillworks as Full Stack Software Engineer. I enjoy developing personal projects besides full-time job.
+I'm Takuya. I currently work at goodfood as React Native Developer. I enjoy developing personal projects besides full-time job.
 
 ## My Personal Projects
 - [SnapVote](https://snapvote.live) Embedding survey tool to collect user feedbacks.
